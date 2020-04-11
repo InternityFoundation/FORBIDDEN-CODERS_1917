@@ -43,4 +43,4 @@ input:lang(ar)[type="submit"], .comment-navigation .nav-previous:lang(ar),
 .widget_nav_menu ul li:lang(ar),
 .widget_pages ul li:lang(ar),
 .widget_recent_comments ul li:lang(ar),
-.widget_recent_e
+.widget_recent_
